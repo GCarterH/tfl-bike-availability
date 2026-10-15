@@ -1,6 +1,6 @@
 # Docked data
 
-Typical Santander Cycles availability, published hourly for the Docked app.
+Typical Santander Cycles availability across London, updated every few minutes.
 
 `profiles.json` (attached to the `latest` release) holds, for every docking station,
 the average bikes, e-bikes and free docks for each 15-minute slot of the week
